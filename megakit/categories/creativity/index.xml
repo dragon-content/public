@@ -6,7 +6,16 @@
     <description>Recent content in Creativity on Megakit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dragon-content.github.io/public/megakit/categories/creativity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dragon-content.github.io/public/megakit/categories/creativity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter 3  Lists Tuples and Dictionaries</title>
+      <link>https://dragon-content.github.io/public/megakit/posts/2022/12/01/chapter-3-lists-tuples-and-dictionaries/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dragon-content.github.io/public/megakit/posts/2022/12/01/chapter-3-lists-tuples-and-dictionaries/</guid>
+      <description>Python has several other important data types that you’ll probably use every day.</description>
+    </item>
+    
     <item>
       <title>Improve design with typography</title>
       <link>https://dragon-content.github.io/public/megakit/posts/2022/03/09/improve-design-with-typography/</link>
